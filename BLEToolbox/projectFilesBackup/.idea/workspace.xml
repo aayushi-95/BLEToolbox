@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="a" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="COMMAND_LINE_OPTIONS" value="--stacktrace" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7491d334-19d7-4e17-809d-217774208e71" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Xmx512m" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>recent_Command</find>
+      <find>send</find>
+      <find>0x0D</find>
+      <find>0x0</find>
+      <find>0x0A</find>
+      <find>104, 101, 108, 112, 10</find>
+      <find>&gt;CURRENT MSG DUMP OVER</find>
+      <find>Current msg</find>
+      <find>ime is too long</find>
+      <find>wuartAllMessages</find>
+      <find>receiveMessage</find>
+      <find>buffering[buffering.length - 1] == '\r' || buffering[buffering.length - 1] == '\n'</find>
+      <find>buffering[buffering.length - 1] == '\r' \</find>
+      <find>buffering[buffering.length - 1] == '\r'</find>
+      <find>ZB_COORDINATER_FIRST_RUN</find>
+      <find>deviceType == DeviceType.deviceEndDevice</find>
+      <find>getItemShortcutsClass</find>
+      <find>getAllItemShortcuts</find>
+      <find>check</find>
+      <find>RealmResults</find>
+      <find>shortcutsList</find>
+      <find>deleteAllShortCuts</find>
+      <find>RealmConfiguration</find>
+      <find>add</find>
+      <find>addshort</find>
+      <find>delete</find>
+      <find>notifyDataSetChanged</find>
+      <find>S</find>
+      <find>Si</find>
+      <find>Signing</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ZigbeeActivity</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\ Android\Kinetis_BLE_Toolbox\BLEToolbox\app</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\nxf42542\Desktop\certificate\release.jks" />
+    <option name="KEY_ALIAS" value="kinetisbletoolbox" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/BLEAttributes.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/DeviceScanActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_zigbee.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/ItemShortcuts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/Shortcut.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/Shortcuts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/ZB_CoordinaterItemShortcuts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/ZB_EndDeviceItemShortcuts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/model/ZB_RouterItemShortcuts.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_sensor.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/BLEConverter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/event/BLEStateEvent.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_sensors_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/AccelerometerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/ECompassFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sensor_ecompass.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/BaseFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/KW40_Fragments/AccelerometerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorECompassFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/RegisterInterfaceActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register_interface.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/AppConfig.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sensor_accelerometer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/DeviceInfoDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_register_interface.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/DBUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ThreadShellActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorAccelerometerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/HeartRateActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/service/BLEService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_qpp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/sensor_data_cell.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/RegisterInterfaceFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sensor_data.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/sensor_data_cell.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorDataFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/Thermometer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/SenorActivity.java" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/QppActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/WuartActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/BLEToolbox.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/BeaconActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="207" />
+    <option name="y" value="-27" />
+    <option name="width" value="1689" />
+    <option name="height" value="1059" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SafeVarargsDetector</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BLEToolbox" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="BLEToolbox" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidTargetDevices" value="ZX1G22K4ZK" />
+    <property name="DEBUGGABLE_DEVICE" value="motorola-nexus_6-ZX1G22K4ZK" />
+    <property name="DEBUGGABLE_PROCESS" value="com.freescale.kinetisbletoolbox" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="ExportApk.ApkPath" value="C:\Android key" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Users/nxf42542/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/bluetooth/BluetoothGatt.class&#10;project&#9;ACTION&#9;null&#10;projectst&#9;ACTION&#9;null&#10;ProjectS&#9;ACTION&#9;TemplateProjectStructure&#10;projectstructure&#9;ACTION&#9;null" />
+    <property name="android.profiler.active" value="true" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/certificate/release.jks" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1564081712131" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.freescale.bletoolbox.fragment.Sersor_Fragments" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536913066951" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536913066951" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\agarwaa\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7491d334-19d7-4e17-809d-217774208e71" name="Default" comment="" />
+      <created>1528684407276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528684407276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19190283" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Captures" order="5" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5550122" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4804401" weight="0.3289183" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5806846" weight="0.3289183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4779951" weight="0.3285968" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" sideWeight="0.48594132" weight="0.3289183" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51012146" side_tool="true" weight="0.47602132" />
+      <window_info anchor="bottom" id="Logcat" order="9" sideWeight="0.52689487" visible="true" weight="0.1687389" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.7157702" weight="0.3289183" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.16320294" weight="0.6287744" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.46332517" weight="0.3197158" />
+      <window_info anchor="bottom" id="Gradle Console" order="13" sideWeight="0.83557457" side_tool="true" weight="0.7428256" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.47310513" side_tool="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48987854" weight="0.47602132" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="1920" y="193" width="1680" height="1050" id="Documentation" order="8" type="FLOATING" />
+      <window_info anchor="right" id="Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20904645" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Captures" order="5" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49511003" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4828851" weight="0.3289183" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5623472" weight="0.62913907" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4804401" weight="0.3289183" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" sideWeight="0.4883863" weight="0.3289183" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.38325185" side_tool="true" weight="0.79801327" />
+      <window_info anchor="bottom" id="Logcat" order="9" sideWeight="0.61674815" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.47310513" weight="0.3289183" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.46821517" weight="0.3289183" />
+      <window_info anchor="bottom" id="Gradle Console" order="12" sideWeight="0.3361858" side_tool="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.38325185" side_tool="true" visible="true" weight="0.3289183" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="1920" y="193" width="1680" height="1050" id="Documentation" order="8" type="FLOATING" />
+      <window_info anchor="right" id="Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/QppActivity.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorAccelerometerFragment.java</url>
+          <line>135</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorAccelerometerFragment.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorDataFragment.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/service/OtapController.java</url>
+          <line>734</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/WuartActivity.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/WuartActivity.java</url>
+          <line>239</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java</url>
+          <line>679</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/DBUtil.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java</url>
+          <line>557</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/DBUtil.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/about_background.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/data/res/values/attrs.xml" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/widget/ListView.class" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/RegisterInterfaceFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sensor_data.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sensor_data_cell.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/fragment/Sersor_Fragments/SensorDataFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/DeviceInfoDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/AboutDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/CustomeTextViewVertical.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/FslRotateAnimation.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/SettingDelayDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/ShortcutDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/WheelSizePickerDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/Thermometer.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_qpp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/view/SemiCircleProgressBar.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/SenorActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/QppActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/CheckActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/OtapActivity.java" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/java/util/List.class" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/text/TextUtils.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.2/f5423d9d604c263cf342f53d2a704021084e900f/realm-android-0.82.2-sources.jar!/io/realm/Realm.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/WuartActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ThreadShellActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/service/OtapController.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.2/f5423d9d604c263cf342f53d2a704021084e900f/realm-android-0.82.2-sources.jar!/io/realm/RealmResults.java" />
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/SharedPreferencesUtil.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/BLEToolbox.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/AppConfig.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/SdkUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/OtapStatusTag.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/BaseActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/BeaconActivity.java" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/os/Bundle.class" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/app/Activity.class" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-P/android.jar!/android/content/Intent.class" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/utility/DBUtil.java" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/recyclerview-v7/24.1.0/recyclerview-v7-24.1.0-sources.jar!/android/support/v7/widget/RecyclerView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/ZigbeeActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/freescale/bletoolbox/activity/DeviceScanActivity.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

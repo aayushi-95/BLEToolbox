@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\layout-v14\\md_stub_progress.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_beacon.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_beacon.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sensor.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scan.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_uart.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_uart.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sensor.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_app.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_app.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scan.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_scan.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_uart.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_uart.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_app.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_beacon.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu\\menu_beacon.xml"
+    }
+]

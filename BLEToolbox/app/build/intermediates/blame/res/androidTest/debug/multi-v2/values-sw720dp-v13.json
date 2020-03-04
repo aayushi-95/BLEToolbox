@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

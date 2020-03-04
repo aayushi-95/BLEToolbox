@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_background_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/nxp_line_color" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/wuart_messages"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/device_info_background"
+        android:visibility="gone"/>
+
+    <ScrollView
+        android:id="@+id/sv_wuart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true" >
+
+        <TextView
+            android:id="@+id/wuart_all_messages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/wuart_message"
+            android:gravity="top"
+            android:padding="8dp"
+            android:scrollbars="vertical"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+    </ScrollView>
+
+    <EditText
+        android:id="@+id/wuart_field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/device_info_background"
+        android:inputType="textNoSuggestions"
+        android:padding="4dp"
+        android:singleLine="true"
+        android:textColor="@android:color/black" />
+
+    <include layout="@layout/logo_bar" />
+
+    <include layout="@layout/status_bar" />
+</LinearLayout>

@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\hugo-runtime-1.2.1.aar\4d7ec48a86cd62c8f927d4c46b9b975c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c52a84cd957668c3ed6fec8137501667\AndroidManifest.xml:2:1-11:12
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\a4aedf1490684e21f82fc4cc559ab7a4\AndroidManifest.xml:2:1-13:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\library-1.1.7.aar\1f5beed1d12bddde22582e9081bf32c5\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.0.aar\d72ec5c728863e54b225e38d3c2898d6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.0.aar\c9876657a9d7e1d232124cd1f2dade73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.0.aar\9ae735d8937ff55d21cf588eebca6c85\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.0.aar\cb5a272fea7f6f71f1b1636bfe0c2639\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.0.aar\ef8aa5cd6148be244b86cbf34de3c2ac\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+	package
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:11:9-53
+application
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:14:5-125:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\hugo-runtime-1.2.1.aar\4d7ec48a86cd62c8f927d4c46b9b975c\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\hugo-runtime-1.2.1.aar\4d7ec48a86cd62c8f927d4c46b9b975c\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c52a84cd957668c3ed6fec8137501667\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c52a84cd957668c3ed6fec8137501667\AndroidManifest.xml:9:5-20
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\a4aedf1490684e21f82fc4cc559ab7a4\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\a4aedf1490684e21f82fc4cc559ab7a4\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.0.aar\d72ec5c728863e54b225e38d3c2898d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.0.aar\d72ec5c728863e54b225e38d3c2898d6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.0.aar\9ae735d8937ff55d21cf588eebca6c85\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.0.aar\9ae735d8937ff55d21cf588eebca6c85\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.0.aar\cb5a272fea7f6f71f1b1636bfe0c2639\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.0.aar\cb5a272fea7f6f71f1b1636bfe0c2639\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.0.aar\ef8aa5cd6148be244b86cbf34de3c2ac\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.0.aar\ef8aa5cd6148be244b86cbf34de3c2ac\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:19:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:17:9-42
+	android:icon
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:15:9-35
+activity#com.freescale.bletoolbox.CreatePasswordActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:22:19-57
+activity#com.freescale.bletoolbox.EnterPassword
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.freescale.bletoolbox.Splash
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:26:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:27:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:30:23-70
+activity#com.freescale.bletoolbox.activity.CheckActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:33:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:34:13-51
+activity#com.freescale.bletoolbox.activity.MainActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:38:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:39:13-50
+activity#com.freescale.bletoolbox.activity.MainBeacon
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:45:13-40
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:44:13-48
+activity#com.freescale.bletoolbox.activity.BeaconActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:49:13-52
+activity#com.freescale.bletoolbox.activity.BeaconDetailsActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:53:13-59
+activity#com.freescale.bletoolbox.activity.DeviceScanActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:57:13-56
+activity#com.freescale.bletoolbox.activity.HeartRateActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:60:9-63:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:61:13-55
+activity#com.freescale.bletoolbox.activity.CSCActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:64:9-67:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:65:13-49
+activity#com.freescale.bletoolbox.activity.RSCActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:68:9-71:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:69:13-49
+activity#com.freescale.bletoolbox.activity.HealthThermometerActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:72:9-75:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:73:13-63
+activity#com.freescale.bletoolbox.activity.BloodPressureActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:76:9-79:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:78:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:77:13-59
+activity#com.freescale.bletoolbox.activity.IPconfig
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:81:13-46
+activity#com.freescale.bletoolbox.activity.ProximityActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:85:13-55
+activity#com.freescale.bletoolbox.activity.GlucoseActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:88:9-91:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:89:13-53
+activity#com.freescale.bletoolbox.activity.WuartActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:92:9-95:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:94:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:93:13-51
+activity#com.freescale.bletoolbox.activity.OtapActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:96:9-99:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:98:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:97:13-50
+activity#com.freescale.bletoolbox.activity.FRMDActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:100:9-104:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:103:13-45
+	android:hardwareAccelerated
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:102:13-48
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:101:13-50
+activity#com.freescale.bletoolbox.activity.ThreadShellActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:105:9-108:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:107:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:106:13-57
+activity#com.freescale.bletoolbox.activity.QppActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:109:9-112:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:111:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:110:13-49
+activity#com.freescale.bletoolbox.activity.SenorActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:113:9-116:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:114:13-51
+activity#com.freescale.bletoolbox.activity.RegisterInterfaceActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:117:9-120:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:118:13-63
+activity#com.freescale.bletoolbox.activity.ZigbeeActivity
+ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:121:9-124:52
+	android:screenOrientation
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml:122:13-52
+uses-sdk
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\hugo-runtime-1.2.1.aar\4d7ec48a86cd62c8f927d4c46b9b975c\AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\hugo-runtime-1.2.1.aar\4d7ec48a86cd62c8f927d4c46b9b975c\AndroidManifest.xml:7:5-43
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c52a84cd957668c3ed6fec8137501667\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c52a84cd957668c3ed6fec8137501667\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\a4aedf1490684e21f82fc4cc559ab7a4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\a4aedf1490684e21f82fc4cc559ab7a4\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\library-1.1.7.aar\1f5beed1d12bddde22582e9081bf32c5\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\library-1.1.7.aar\1f5beed1d12bddde22582e9081bf32c5\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.0.aar\d72ec5c728863e54b225e38d3c2898d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.0.aar\d72ec5c728863e54b225e38d3c2898d6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.0.aar\c9876657a9d7e1d232124cd1f2dade73\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.0.aar\c9876657a9d7e1d232124cd1f2dade73\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.0.aar\9ae735d8937ff55d21cf588eebca6c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.0.aar\9ae735d8937ff55d21cf588eebca6c85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.0.aar\cb5a272fea7f6f71f1b1636bfe0c2639\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.0.aar\cb5a272fea7f6f71f1b1636bfe0c2639\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.0.aar\ef8aa5cd6148be244b86cbf34de3c2ac\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.0] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.0.aar\ef8aa5cd6148be244b86cbf34de3c2ac\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\agarwaa\.gradle\caches\transforms-1\files-1.1\core-0.8.6.2.aar\987c7c3415a0b407db6a1b0cbdfe8b29\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agarwaa\Downloads\IoT_Toolbox_Android_5.0.4\BLEToolbox\app\src\main\AndroidManifest.xml

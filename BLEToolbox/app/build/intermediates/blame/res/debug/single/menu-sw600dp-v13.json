@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu-sw600dp-v13\\menu_beacon.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\menu-sw600dp\\menu_beacon.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu-sw600dp-v13\\menu_beacon.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\menu-sw600dp\\menu_beacon.xml"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="?android:selectableItemBackground"
+    android:padding="8dp">
+
+    <RadioButton
+        android:id="@+id/wheel_size_picker_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="45-622"
+        android:gravity="center"
+        android:textColor="@color/deep_red"
+        android:buttonTint="@color/philips_blue"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/wheel_size_picker_value"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="2000"
+        android:gravity="center"
+        android:textColor="@color/deep_red"
+        android:textSize="14sp" />
+</LinearLayout>

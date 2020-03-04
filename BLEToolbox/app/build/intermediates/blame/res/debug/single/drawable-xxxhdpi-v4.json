@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_otap.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_otap.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\send_command.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\send_command.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\mute_off.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\mute_off.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_btn.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok_cancel_background.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ok_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\accelerometer_btn.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\accelerometer_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\potentiometer_percent.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\potentiometer_percent.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\volumedown.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\volumedown.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_blood_pressure.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_blood_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\del.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\del.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_health_thermometer.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_health_thermometer.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\down_list.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\down_list.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_orange.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_orange.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\down_list.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\down_list.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\channelup.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\channelup.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_next_disabled.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\del.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\del.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_next.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\channelup.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\channelup.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_wheel_settings.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_wheel_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_blue.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_blue.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_prev_disabled.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_prev_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\add.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_btn.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_btn.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\add.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_wireless_uart.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_wireless_uart.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\volumeup.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\volumeup.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\mute_on.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\mute_on.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_wheel_settings.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_wheel_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_running_speed_and_cadence.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_running_speed_and_cadence.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\accelerometer_btn.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\accelerometer_btn.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\shell.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\shell.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_frdm.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_frdm.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\arrow_right.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_running_speed_and_cadence.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_running_speed_and_cadence.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\toggle_off.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\toggle_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_heart_rate.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_heart_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\spinner.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\spinner.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\potentiometer_percent.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\potentiometer_percent.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\md_nav_back.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\drawable-xxxhdpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\power.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\power.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok_cancel_background.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ok_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\shell.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\shell.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_full_battery.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_full_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_blood_pressure.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_blood_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_full_battery.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_full_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\shortcut_recent_background.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\shortcut_recent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_a.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_a.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\mute_on.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\mute_on.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_proximity.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_proximity.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_frdm.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_frdm.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_proximity.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_proximity.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_heart_rate.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_heart_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_b.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_b.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_b.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_b.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_prev_disabled.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_prev_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_calibration.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calibration.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\spinner.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\spinner.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\buzzer_on.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\buzzer_on.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\nxp_line_color.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\nxp_line_color.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_next_disabled.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next_disabled.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_beacon.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_beacon.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\md_nav_back.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\drawable-xxxhdpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\buzzer_on.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\buzzer_on.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\compass_a.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\compass_a.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\input_off.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\input_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_otap.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_otap.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_calibration.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calibration.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_black.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_black.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_prev.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\input_on.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\input_on.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_beacon.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_beacon.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\potentiometer_bg.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\potentiometer_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\nomal_list.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\nomal_list.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_glucose.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_glucose.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cycling_speed_and_cadence.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cycling_speed_and_cadence.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_empty_battery.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_empty_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\nxp_line_color.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\nxp_line_color.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\channeldown.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\channeldown.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_wireless_uart.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_wireless_uart.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\power.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\power.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\input_off.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\input_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_orange.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_orange.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\input_on.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\input_on.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_blue.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_blue.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\channeldown.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\channeldown.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\send_command.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\send_command.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\potentiometer_bg.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\potentiometer_bg.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\toggle_off.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\toggle_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\arrow_right.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_half_battery.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_half_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_device_info_black.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_info_black.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_next.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\toggle_on.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\toggle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\buzzer_off.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\buzzer_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\buzzer_off.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\buzzer_off.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_prev.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_empty_battery.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_empty_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\nomal_list.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\nomal_list.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_half_battery.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_half_battery.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\volumeup.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\volumeup.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cycling_speed_and_cadence.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cycling_speed_and_cadence.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\volumedown.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\volumedown.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\toggle_on.png",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\toggle_on.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_health_thermometer.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_health_thermometer.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\mute_off.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\mute_off.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\shortcut_recent_background.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\shortcut_recent_background.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_glucose.png",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_glucose.png"
+    }
+]

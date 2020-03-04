@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\dialog_setting_delay.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\dialog_setting_delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_health_thermometer.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_health_thermometer.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_wuart.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_wuart.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_running_speed.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_running_speed.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_compass.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_compass.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_health_thermometer.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_health_thermometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\device_information.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\device_information.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\dialog_shortcuts.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\dialog_shortcuts.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\spinner_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\item_history.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_proximity.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_proximity.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wheel_size_picker_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wheel_size_picker_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\ble_app_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\ble_app_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_led.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_led.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_thread_shell.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_thread_shell.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\beacon_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\beacon_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\list_sensors_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\list_sensors_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\about.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\about.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wheel_size_picker_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wheel_size_picker_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\action_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\action_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\view_custom_dialog.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\view_custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wuart_message.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wuart_message.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_cycling_speed.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_cycling_speed.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\ble_device_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\ble_device_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\status_bar.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\status_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\ble_app_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\ble_app_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_beacon_details.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_beacon_details.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\toolbar_extended.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\toolbar_extended.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_heart_rate.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_heart_rate.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_blood_pressure.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_blood_pressure.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\about.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\about.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_led.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_led.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wuart_message.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wuart_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_controller.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\list_sensors_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\list_sensors_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_glucose.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_glucose.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\dialog_shortcuts.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\dialog_shortcuts.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_proximity.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_proximity.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_otap.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_otap.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_buzzer.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_buzzer.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_cycling_speed.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_cycling_speed.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\logo_bar.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\logo_bar.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_controller.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_compass.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_compass.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_device_scan.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_device_scan.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_heart_rate.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_heart_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\beacon_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\beacon_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\action_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\action_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\logo_bar.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\logo_bar.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\item_history.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\toolbar.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_buzzer.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_buzzer.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\view_custom_dialog.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\view_custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\status_bar.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\status_bar.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_accelerometer.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_accelerometer.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\device_information.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\device_information.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_beacon_details.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_beacon_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\ble_device_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\ble_device_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_temperature.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_device_scan.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_device_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_input.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_blood_pressure.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_blood_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wheel_size_picker.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wheel_size_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_accelerometer.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_accelerometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_otap.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_otap.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_temperature.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_temperature.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\toolbar.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_thread_shell.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_thread_shell.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\spinner_dropdown_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_glucose.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_glucose.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\dialog_setting_delay.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\dialog_setting_delay.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\spinner_dropdown_item.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\spinner_item.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\fragment_input.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\fragment_input.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\wheel_size_picker.xml",
+        "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\wheel_size_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_running_speed.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_running_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\activity_wuart.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\activity_wuart.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\toolbar_extended.xml",
+        "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\layout-sw600dp\\toolbar_extended.xml"
+    }
+]

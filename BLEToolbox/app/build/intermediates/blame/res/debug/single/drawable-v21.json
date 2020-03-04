@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    }
+]

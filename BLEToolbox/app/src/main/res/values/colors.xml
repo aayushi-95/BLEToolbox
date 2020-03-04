@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Swatches -->
+    <color name="swatches_primary">#f55a00</color>
+    <color name="swatches_primary_dark">#c14700</color>
+
+    <!-- Application Theme -->
+    <color name="theme_primary">@color/swatches_primary</color>
+    <color name="theme_primary_dark">@color/swatches_primary_dark</color>
+    <color name="theme_text_primary">#ffffff</color>
+    <color name="theme_text_secondary">#010101</color>
+    <color name="theme_background_content">#ffffff</color>
+
+    <!-- Shadow -->
+    <color name="shadow_start">#88000000</color>
+    <color name="shadow_center">#33000000</color>
+
+    <color name="text_green">#0bf511</color>
+    <color name="text_red">#f5001e</color>
+
+    <!-- NXP style colors -->
+    <color name="deep_orange">#d54e12</color>
+    <color name="deep_red">#a40044</color>
+    <color name="red">#e3004a</color>
+    <color name="philips_blue">#2C6D4B</color>
+    <color name="temprature_yellow">#fcb315</color>
+    <color name="temprature_gray">#a7a9ac</color>
+    <color name="compass">#f07e28</color>
+
+    <!-- Wireless console/UART -->
+    <color name="Deep_Red_Color">#D61062</color>
+    <color name="Philips_Blue_Color">#005aff</color>
+
+
+</resources>

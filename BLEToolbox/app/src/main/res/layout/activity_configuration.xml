@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/toolbar" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="122dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:text="Input the following parameters:"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/IP"
+            android:layout_width="244dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="IP Address (192.168.1.118)"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/Subnet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Subnet Mask (255.255.255.0)"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/Gateway"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Gateway"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/Submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit" />
+
+        <include layout="@layout/logo_bar" />
+    </LinearLayout>
+
+    <include layout="@layout/status_bar" />
+</RelativeLayout>

@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">IoT Toolbox</string>
+    <!-- General -->
+    <string name="error_title">Error</string>
+    <string name="error_ble_required">Sorry, your device does not support Bluetooth Low Energy.</string>
+    <string name="error_enable_bluetooth">Please enable Bluetooth.</string>
+    <string name="error_lost_connection">Connection has been lost.</string>
+    <string name="grant_permission">You need to allow access this device\'s location.</string>
+    <!-- About -->
+    <string name="about_link"><u>Wireless Connectivity</u></string>
+
+    <!-- Applications -->
+    <string name="app_beacon">Beacons</string>
+    <string name="app_ipconfig">IPconfig</string>
+    <string name="app_blood_pressure">Blood Pressure</string>
+    <string name="app_cycling_speed">Cycling Speed and Cadence</string>
+    <string name="app_frdm_demo">FRDM-KW40Z Demo</string>
+    <string name="app_glucose">Glucose</string>
+    <string name="app_thermometer">Health Thermometer</string>
+    <string name="app_heart_rate">Heart Rate</string>
+    <string name="app_proximity">Proximity</string>
+    <string name="app_running_speed">Running Speed and Cadence</string>
+    <string name="app_w_console_uart">Wireless Console/UART</string>
+    <string name="app_otap">OTAP</string>
+    <string name="app_shell">Thread Shell</string>
+    <string name="app_qpp">QPP</string>
+    <string name="app_sensor">Sensor Demo</string>
+    <string name="app_zigbee">Zigbee</string>
+    <string name="sensor_register_interface">Register Interface</string>
+
+    <!-- Menus -->
+    <string name="menu_scan_start">SCAN</string>
+    <string name="menu_scan_stop">STOP</string>
+    <string name="menu_connect">CONNECT</string>
+    <string name="menu_disconnect">DISCONNECT</string>
+    <string name="menu_done">DONE</string>
+    <string name="menu_about">ABOUT</string>
+
+    <string name="state_connected">Connected</string>
+    <string name="state_connecting">Connecting</string>
+    <string name="state_disconnected">Disconnected</string>
+
+    <!-- Heart Rate -->
+    <string name="heart_rate_sensor_location">Sensor Location</string>
+
+    <!-- Blood Pressure -->
+    <string name="bpm_systolic">Systolic</string>
+    <string name="bpm_diastolic">Diastolic</string>
+    <string name="bpm_mean_ap">Mean AP</string>
+    <string name="bpm_pulse_rate">Pulse Rate</string>
+    <string name="bpm_pulse">PULSE</string>
+    <string name="bpm_time_date">Time &amp; Date</string>
+    <string name="bpm_mmHg">mmHg</string>
+    <string name="bpm_bpm">bpm</string>
+    <string name="bpm_kpa">kPa</string>
+
+    <string name="dashx3">---</string>
+
+    <!-- Proximity -->
+    <string name="proximity_rssi">RSSI</string>
+    <string name="proximity_tx_power">TX Power</string>
+    <string name="proximity_alert_level">Link Loss Alert Level</string>
+    <string name="proximity_immediate_alert">Immediate Alert</string>
+    <string name="proximity_unit">dBm</string>
+    <string name="proximity_alert_level_high">ENTER IP</string>
+    <string name="proximity_alert_level_mild">MILD ALERT</string>
+    <string name="proximity_alert_level_off">NO ALERT</string>
+    <string name="proximity_alert_level_bt_high">HIGH</string>
+    <!--<string name="proximity_alert_level_bt_mild">MILD</string>-->
+    <string name="proximity_alert_level_bt_mild">MIDDLE</string>
+    <string name="proximity_alert_level_bt_off">OFF</string>
+
+    <!-- Glucose -->
+    <string name="glu_timestamp">Timestamp</string>
+    <string name="glu_GET">GET</string>
+    <string name="glu_unit_mgdl">mg/dl</string>
+    <string name="glu_unit_mmol">mmol/l</string>
+    <string name="glu_ABORT">ABORT</string>
+    <string name="glu_NotFoundRecord">Not found any record</string>
+    <string name="glu_Downloading">Downloading %d record(s)</string>
+
+    <!-- OTAP -->
+    <string name="file_info">File Information</string>
+    <string name="file_name">File Name</string>
+    <string name="file_version">File Version</string>
+    <string name="file_size">File Size</string>
+    <string name="status">Status</string>
+    <string name="open">Open</string>
+    <string name="firmware_update">Firmware Update</string>
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="megSendBinaryDone">Transfer successfully</string>
+    <string name="btOk">OK</string>
+    <string name="file_status_not_loaded">File not loaded</string>
+    <string name="file_valid">Valid File</string>
+    <string name="set_delay_time">Set delay time(ms)</string>
+
+    <string name="accept">ACCEPT</string>
+    <string name="temperature">Temperature</string>
+    <string name="kmh">Km/h</string>
+    <string name="rmp">rmp</string>
+    <string name="ok">OK</string>
+
+    <!-- FRDM  -->
+    <string name="frdm_led">LED</string>
+    <string name="frdm_switch">Switch</string>
+    <string name="frdm_buzzer">Buzzer</string>
+    <string name="frdm_chip_temperature">Chip Temperature</string>
+    <string name="frdm_potentiometer">Potentiometer</string>
+    <string name="frdm_accelerometer">Accelerometer</string>
+    <string name="frdm_e_compass">e-Compass</string>
+    <string name="frdm_remote_control">Remote Control</string>
+
+    <!-- FRDM Led  -->
+    <string name="frdm_led2">LED 2</string>
+    <string name="frdm_led3">LED 3</string>
+    <string name="frdm_led4">LED 4</string>
+
+    <!-- FRDM Input  -->
+    <string name="frdm_input_sw1">SW 1</string>
+    <string name="frdm_input_sw2">SW 2</string>
+    <string name="frdm_input_sw3">SW 3</string>
+
+    <!-- FRDM Buzzer  -->
+    <string name="frdm_buzzer_on">Buzzer On</string>
+    <string name="frdm_buzzer_off">Buzzer Off</string>
+
+    <!-- FRDM Temperature  -->
+    <string name="frdm_temperature">Chip Temperature</string>
+    <string name="frdm_txt_temperature">Temperature</string>
+
+    <!-- FRDM Accelerometer  -->
+    <string name="xaxis">X-Axis</string>
+    <string name="yaxis">Y-Axis</string>
+    <string name="zaxis">Z-Axis</string>
+    <string name="accelerometer_start">Accelerometer Start</string>
+    <string name="accelerometer_stop">Accelerometer Stop</string>
+    <string name="accelerometer_time">Time</string>
+
+    <!-- FRDM Compass  -->
+    <string name="ecompass_start">e-Compass Start</string>
+    <string name="ecompass_stop">e-Compass Stop</string>
+    <string name="ecompass_n">N</string>
+    <string name="ecompass_s">S</string>
+    <string name="ecompass_w">W</string>
+    <string name="ecompass_e">E</string>
+    <string name="ecompass_heading">Heading</string>
+    <string name="ecompass_ok">OK</string>
+    <string name="ecompass_calibration">Calibration</string>
+    <string name="ecompass_calibration_body">Calibrate your device by moving it as shown in the 3 steps below and then close this window. </string>
+
+    <!-- FRDM remote control -->
+    <string name="remote_control_msg_select_tv">Select a TV brand below</string>
+    <array name="remote_control_supported_tv">
+        <item>Select TV</item>
+        <item>LG</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+    </array>
+
+    <!-- Wireless UART -->
+    <string name="uart_mode_console">Console</string>
+    <string name="uart_mode_uart">UART</string>
+    <string name="app_w_uart">Wireless UART</string>
+    <string name="app_w_console">Wireless Console</string>
+
+    <!-- Thread Shell -->
+    <string name="str_shell_shortcuts">Shortcuts</string>
+    <string name="str_shell_recent">Recent</string>
+    <string name="thread_shell">Thread Shell</string>
+    <string name="str_shell_add">add</string>
+    <string name="str_shell_del">del</string>
+    <string name="str_shell_get">get</string>
+    <string name="str_shell_ping">ping</string>
+    <string name="title_add_shortcut_in_dialog">Do you want to add this command on the Shortcuts?</string>
+    <string name="title_del_shortcut_in_dialog">Are you sure to delete this command?</string>
+    <string name="error_command_exists">This command exists in the Shortcuts</string>
+    <!-- QPP  -->
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="title_activity_qpp">QppActivity</string>
+    <string name="label_device_name">Device Name:</string>
+    <string name="label_device_address">MAC Address:</string>
+    <string name="label_state">State:</string>
+    <string name="label_notified">Data Received : </string>
+    <string name="label_data_received">Data: </string>
+    <string name="label_data_rate">Data Rate: </string>
+    <string name="label_Bps">Bps</string>
+    <string name="label_error_data">Error: </string>
+    <string name="label_error_count">Count: </string>
+    <string name="text_RxTx_Split">-----------------------------------------</string>
+    <string name="label_data_sent">Data Sent : </string>
+    <string name="label_delay">Delay : </string>
+    <string name="bit10">10</string>
+    <string name="text_ms">ms</string>
+    <string name="text_delay_range">(0~9999)</string>
+    <string name="label_input">Input:</string>
+    <string name="label_hex">0x</string>
+    <string name="label_input_hint">(0~9,A~F)</string>
+    <string name="label_send_pkg_repeat">Times:</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_stop">Stop</string>
+    <string name="text_repeat">Repeat</string>
+    <string name="text_counter_def">0</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="title_version">BLE Qpp V1.0.1</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="no_qpp_service">NO QPP SERVICE</string>
+    <string name="qpp_service_ready">Ready</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+
+    <!--Sensor-->
+    <string name="sensor_shell">Senor Demo</string>
+
+    <string-array name="sensor_type_list">
+        <item>Accelerometer</item>
+        <item>Magnetometer</item>
+        <item>Gyroscope</item>
+        <item>eCompass</item>
+        <item>Barometer</item>
+        <item>Altimeter</item>
+        <item>Pedometer</item>
+        <item>Freefall</item>
+        <item>Orientation</item>
+
+    </string-array>
+    <string name="menu_s_raw">RAW</string>
+    <string name="menu_s_normal">NORMAL</string>
+    <string name="menu_s_stop">STOP</string>
+    <!--<string name="cmd_raw">CMD RAW</string>-->
+    <!---->
+    <!--<string name="cmd_accelerometer">CMD ACCELEROMETER</string>-->
+    <!--<string name="cmd_magnetometer">CMD MAGNETOMETER</string>-->
+    <!--<string name="cmd_gyroscope">CMD GYROSCOPE</string>-->
+    <!--<string name="cmd_ecompass">CMD ECOMPASS</string>-->
+    <!--<string name="cmd_barometer">CMD BAROMETER</string>-->
+    <!--<string name="cmd_altimeter">CMD ALTIMETER</string>-->
+    <!--<string name="cmd_pedometer">CMD PEDOMETER</string>-->
+    <!--<string name="cmd_freefall">CMD FREEFALL</string>-->
+    <!--<string name="cmd_orientation">CMD ORIGENTATION</string>-->
+
+    <!--Register Interface-->
+    <string-array name="sensor_register_type">
+        <item>ACCELEROMETER</item>
+        <item>MAGNETOMETER</item>
+        <item>GYROSCOPE</item>
+        <item>BAROMETER</item>
+    </string-array>
+    <string-array name="sensor_register_operation">
+        <item>READ</item>
+        <item>WRITE</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

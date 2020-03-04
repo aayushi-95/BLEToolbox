@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/nxp_line_color" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/register_sensor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="@android:color/white"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:text="Sensor"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/md_icon_margin" />
+
+            <Button
+                android:id="@+id/register_sensor_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="2"
+                android:background="@drawable/no_alert_bg"
+                android:minHeight="0dp"
+                android:paddingBottom="7dp"
+                android:paddingTop="7dp"
+                android:text="Button"
+                android:textColor="@color/text_green" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#33000000" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/regsiter_operation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="@android:color/white"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:text="Operation"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/md_icon_margin" />
+
+            <Button
+                android:id="@+id/register_sensor_operation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="2"
+                android:background="@drawable/no_alert_bg"
+                android:minHeight="0dp"
+                android:paddingBottom="7dp"
+                android:paddingTop="7dp"
+                android:text="Button"
+                android:textColor="@color/text_green" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#33000000" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:paddingBottom="5dp"
+                    android:paddingTop="5dp"
+                    android:text="Offset"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/md_icon_margin" />
+
+                <EditText
+                    android:id="@+id/register_offset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/no_alert_bg"
+                    android:ems="10"
+                    android:gravity="center_vertical|center_horizontal|center"
+                    android:inputType="textPersonName"
+                    android:paddingBottom="5dp"
+                    android:paddingTop="5dp"
+                    android:text="01"
+                    android:textColor="@android:color/black"
+                    android:textColorLink="@android:color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:paddingBottom="5dp"
+                    android:paddingTop="5dp"
+                    android:text="Bytes"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/md_icon_margin" />
+
+                <EditText
+                    android:id="@+id/register_bytes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/no_alert_bg"
+                    android:ems="10"
+                    android:gravity="center_vertical|center_horizontal|center"
+                    android:inputType="textPersonName"
+                    android:paddingBottom="5dp"
+                    android:paddingTop="5dp"
+                    android:text="01"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/register_go"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="23dp"
+                android:width="80dp"
+                android:height="46dp"
+                android:background="@android:color/white"
+                android:minHeight="0dp"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="Go"
+                android:textColor="@android:color/black"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#33000000" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:paddingBottom="15dp"
+                android:paddingTop="15dp"
+                android:text="Register Data"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/register_clear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="30dp"
+                android:width="80dp"
+                android:height="46dp"
+                android:background="@android:color/white"
+                android:minHeight="0dp"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="Clear"
+                android:textColor="@color/Philips_Blue_Color"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#33000000" />
+
+        <ScrollView
+            android:id="@+id/register_scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/register_interface_data_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/white"
+                android:text="" />
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

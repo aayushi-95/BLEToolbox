@@ -1,0 +1,352 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,286,355,425,499,575,634,705",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "281,350,420,494,570,629,700,768"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2,13,14,15,9,12,10,11,47,34,33,35,36,29,26,27,28,30,6,50,49,43,44,53,22,21,18,23,20,19,39,40,52,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "96,37,484,532,581,282,435,335,385,1839,1391,1335,1444,1509,1196,1050,1099,1151,1242,195,1942,1901,1716,1761,2064,894,826,656,963,770,713,1590,1643,2023,2122",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "151,91,527,576,627,330,479,380,430,1878,1439,1386,1504,1559,1237,1094,1146,1191,1292,248,1986,1937,1756,1808,2117,958,889,708,1023,821,765,1638,1692,2059,2172"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "773,833,892,940,989,1040,1093,1142,1192,1242,1286,1339,1395,1460,1515,1561,1610,1662,1707,1762,1820,1869,1910,1955,2007,2065,2134,2202,2259,2324,2380,2437,2490,2544,2585",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "828,887,935,984,1035,1088,1137,1187,1237,1281,1334,1390,1455,1510,1556,1605,1657,1702,1757,1815,1864,1905,1950,2002,2060,2129,2197,2254,2319,2375,2432,2485,2539,2580,2635"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\attrs.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "97",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "14,2,23,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "588,17,933,726",
+                        "endLines": "16,12,25,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "720,582,1086,927"
+                    },
+                    "to": {
+                        "startLines": "51,54,65,68",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2640,2777,3347,3505",
+                        "endLines": "53,64,67,71",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2772,3342,3500,3706"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,286,355,425,499,575,634,705",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "281,350,420,494,570,629,700,768"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\attrs.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "97",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2,13,14,15,9,12,10,11,47,34,33,35,36,29,26,27,28,30,6,50,49,43,44,53,22,21,18,23,20,19,39,40,52,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "96,37,484,532,581,282,435,335,385,1839,1391,1335,1444,1509,1196,1050,1099,1151,1242,195,1942,1901,1716,1761,2064,894,826,656,963,770,713,1590,1643,2023,2122",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "151,91,527,576,627,330,479,380,430,1878,1439,1386,1504,1559,1237,1094,1146,1191,1292,248,1986,1937,1756,1808,2117,958,889,708,1023,821,765,1638,1692,2059,2172"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "773,833,892,940,989,1040,1093,1142,1192,1242,1286,1339,1395,1460,1515,1561,1610,1662,1707,1762,1820,1869,1910,1955,2007,2065,2134,2202,2259,2324,2380,2437,2490,2544,2585",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "828,887,935,984,1035,1088,1137,1187,1237,1281,1334,1390,1455,1510,1556,1605,1657,1702,1757,1815,1864,1905,1950,2002,2060,2129,2197,2254,2319,2375,2432,2485,2539,2580,2635"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "14,2,23,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "588,17,933,726",
+                        "endLines": "16,12,25,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "720,582,1086,927"
+                    },
+                    "to": {
+                        "startLines": "51,54,65,68",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2640,2777,3347,3505",
+                        "endLines": "53,64,67,71",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2772,3342,3500,3706"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\06deca31a09640fed1742e7ceec25f87\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,286,355,425,499,575,634,705",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "281,350,420,494,570,629,700,768"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\attrs.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "97",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nxf42542\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\f22f4eeec21f619442cc8f9741e6c0cd\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2,13,14,15,9,12,10,11,47,34,33,35,36,29,26,27,28,30,6,50,49,43,44,53,22,21,18,23,20,19,39,40,52,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "96,37,484,532,581,282,435,335,385,1839,1391,1335,1444,1509,1196,1050,1099,1151,1242,195,1942,1901,1716,1761,2064,894,826,656,963,770,713,1590,1643,2023,2122",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "151,91,527,576,627,330,479,380,430,1878,1439,1386,1504,1559,1237,1094,1146,1191,1292,248,1986,1937,1756,1808,2117,958,889,708,1023,821,765,1638,1692,2059,2172"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "773,833,892,940,989,1040,1093,1142,1192,1242,1286,1339,1395,1460,1515,1561,1610,1662,1707,1762,1820,1869,1910,1955,2007,2065,2134,2202,2259,2324,2380,2437,2490,2544,2585",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "828,887,935,984,1035,1088,1137,1187,1237,1281,1334,1390,1455,1510,1556,1605,1657,1702,1757,1815,1864,1905,1950,2002,2060,2129,2197,2254,2319,2375,2432,2485,2539,2580,2635"
+                    }
+                },
+                {
+                    "source": "C:\\ Android\\Kinetis_BLE_Toolbox\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "14,2,23,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "588,17,933,726",
+                        "endLines": "16,12,25,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "720,582,1086,927"
+                    },
+                    "to": {
+                        "startLines": "51,54,65,68",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2640,2777,3347,3505",
+                        "endLines": "53,64,67,71",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2772,3342,3500,3706"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\res\\merged\\release\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.0.aar\\d72ec5c728863e54b225e38d3c2898d6\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "217,286,355,425,499,575,634,705",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "281,350,420,494,570,629,700,768"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2,13,14,15,9,12,10,11,47,34,33,35,36,29,26,27,28,30,6,50,49,43,44,53,22,21,18,23,20,19,39,40,52,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "96,37,484,532,581,282,435,335,385,1839,1391,1335,1444,1509,1196,1050,1099,1151,1242,195,1942,1901,1716,1761,2064,894,826,656,963,770,713,1590,1643,2023,2122",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "151,91,527,576,627,330,479,380,430,1878,1439,1386,1504,1559,1237,1094,1146,1191,1292,248,1986,1937,1756,1808,2117,958,889,708,1023,821,765,1638,1692,2059,2172"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "773,833,892,940,989,1040,1093,1142,1192,1242,1286,1339,1395,1460,1515,1561,1610,1662,1707,1762,1820,1869,1910,1955,2007,2065,2134,2202,2259,2324,2380,2437,2490,2544,2585",
+                        "endColumns": "59,58,47,48,50,52,48,49,49,43,52,55,64,54,45,48,51,44,54,57,48,40,44,51,57,68,67,56,64,55,56,52,53,40,54",
+                        "endOffsets": "828,887,935,984,1035,1088,1137,1187,1237,1281,1334,1390,1455,1510,1556,1605,1657,1702,1757,1815,1864,1905,1950,2002,2060,2129,2197,2254,2319,2375,2432,2485,2539,2580,2635"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.2.aar\\987c7c3415a0b407db6a1b0cbdfe8b29\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\attrs.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "173"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "97",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "14,2,23,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "588,17,933,726",
+                        "endLines": "16,12,25,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "720,582,1086,927"
+                    },
+                    "to": {
+                        "startLines": "51,54,65,68",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2640,2777,3347,3505",
+                        "endLines": "53,64,67,71",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "2772,3342,3500,3706"
+                    }
+                }
+            ]
+        }
+    ]
+}

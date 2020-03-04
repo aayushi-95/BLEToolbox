@@ -1,0 +1,188 @@
+# view res/layout/activity_create_password.xml #generated:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view ldrtl-v17\res/layout-ldrtl-v17/md_listitem_multichoice.xml #generated:27
+# view res/layout/md_listitem_multichoice.xml #generated:14
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(...); }
+
+# view ldrtl-v17\res/layout-ldrtl-v17/md_listitem_singlechoice.xml #generated:27
+# view res/layout/md_listitem_singlechoice.xml #generated:14
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/activity_device_scan.xml #generated:16
+# view res/layout/activity_frdm.xml #generated:29
+# view res/layout/activity_main.xml #generated:16
+# view res/layout/activity_sensor.xml #generated:32
+# view res/layout/activity_thread_shell.xml #generated:163
+# view res/layout/activity_thread_shell.xml #generated:169
+# view res/layout/activity_wuart.xml #generated:15
+# view res/layout/activity_zigbee.xml #generated:163
+# view res/layout/activity_zigbee.xml #generated:169
+# view res/layout/wheel_size_picker.xml #generated:36
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_device_scan.xml #generated:16
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_main.xml #generated:16
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_thread_shell.xml #generated:169
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_thread_shell.xml #generated:175
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_wuart.xml #generated:15
+# view sw600dp-v13\res/layout-sw600dp-v13/wheel_size_picker.xml #generated:36
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/toolbar.xml #generated:2
+# view res/layout/toolbar_extended.xml #generated:2
+# view sw600dp-v13\res/layout-sw600dp-v13/toolbar.xml #generated:2
+# view sw600dp-v13\res/layout-sw600dp-v13/toolbar_extended.xml #generated:2
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/md_stub_actionbuttons.xml #generated:10
+# view res/layout/md_stub_actionbuttons.xml #generated:17
+# view res/layout/md_stub_actionbuttons.xml #generated:5
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# view res/layout/md_dialog_basic.xml #generated:1
+# view res/layout/md_dialog_custom.xml #generated:1
+# view res/layout/md_dialog_input.xml #generated:1
+# view res/layout/md_dialog_list.xml #generated:1
+# view res/layout/md_dialog_progress.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate_horizontal.xml #generated:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.freescale.bletoolbox.BLEToolbox { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.freescale.bletoolbox.CreatePasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.freescale.bletoolbox.activity.BeaconActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.freescale.bletoolbox.activity.BeaconDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.freescale.bletoolbox.activity.BloodPressureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.freescale.bletoolbox.activity.CSCActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.freescale.bletoolbox.activity.CheckActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.freescale.bletoolbox.activity.DeviceScanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.freescale.bletoolbox.activity.FRMDActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.freescale.bletoolbox.activity.GlucoseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.freescale.bletoolbox.activity.HealthThermometerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.freescale.bletoolbox.activity.HeartRateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.freescale.bletoolbox.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.freescale.bletoolbox.activity.OtapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.freescale.bletoolbox.activity.ProximityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.freescale.bletoolbox.activity.QppActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.freescale.bletoolbox.activity.RSCActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.freescale.bletoolbox.activity.RegisterInterfaceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.freescale.bletoolbox.activity.SenorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.freescale.bletoolbox.activity.ThreadShellActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.freescale.bletoolbox.activity.WuartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.freescale.bletoolbox.activity.ZigbeeActivity { <init>(...); }
+
+# view res/layout/activity_heart_rate.xml #generated:69
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_heart_rate.xml #generated:69
+-keep class com.freescale.bletoolbox.view.CustomeTextViewVertical { <init>(...); }
+
+# view res/layout/activity_heart_rate.xml #generated:84
+# view res/layout/fragment_accelerometer.xml #generated:19
+# view res/layout/fragment_sensor_accelerometer.xml #generated:19
+# view sw600dp-v13\res/layout-sw600dp-v13/activity_heart_rate.xml #generated:84
+# view sw600dp-v13\res/layout-sw600dp-v13/fragment_accelerometer.xml #generated:20
+-keep class com.github.mikephil.charting.charts.LineChart { <init>(...); }
+
+# view res/layout/toolbar.xml #generated:26
+# view res/layout/toolbar_extended.xml #generated:27
+# view sw600dp-v13\res/layout-sw600dp-v13/toolbar.xml #generated:29
+# view sw600dp-v13\res/layout-sw600dp-v13/toolbar_extended.xml #generated:27
+-keep class com.pnikosis.materialishprogress.ProgressWheel { <init>(...); }
+

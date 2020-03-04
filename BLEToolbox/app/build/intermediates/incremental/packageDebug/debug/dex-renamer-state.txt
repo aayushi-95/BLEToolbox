@@ -1,0 +1,4 @@
+#Thu Aug 22 14:01:20 CDT 2019
+base.0=C\:\\Users\\agarwaa\\Downloads\\IoT_Toolbox_Android_5.0.4\\BLEToolbox\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\43
+path.0=classes.dex
+renamed.0=classes.dex
